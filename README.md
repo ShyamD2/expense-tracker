@@ -1,9 +1,9 @@
 # 💰 Expense Tracker
 
 An advanced, full-stack expense tracker built with **Node.js**, **Express**, and vanilla JavaScript. Track income and expenses, organize spending by category, set monthly budgets, visualize spending with charts, and export your data to CSV — all with a clean dark-mode UI.
+## Output
 
-![Output](./Output.png)
-
+![Output Screenshot](./Screenshot.png)
 ## ✨ Features
 
 - **Add / Edit / Delete Transactions** — log income and expenses with amount, category, date, and notes
